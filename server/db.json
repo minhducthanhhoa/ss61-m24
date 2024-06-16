@@ -1,0 +1,23 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "hoa"
+    },
+    {
+      "id": 2,
+      "name": "minh thu"
+    },
+    {
+      "id": 1,
+      "name": "huệ"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1718549327735,
+      "name": "ứqsqsq",
+      "completed": false
+    }
+  ]
+}
